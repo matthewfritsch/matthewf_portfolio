@@ -31,7 +31,7 @@
     }
 
     updateTime();
-    setInterval(updateTime, 60 * 1000);
+    setInterval(updateTime, 10 * 1000);
 </script>
 
 <div class="flex justify-center items-center mx-auto my-12 md:my-24 p-4">
